@@ -80,8 +80,9 @@ analytics:
 author:
   name             : "Zhiqi Kang"
   avatar           : "profile.png"
-  bio              : "上下而求索, and I shall always be a student."
-  location         : "Location"
+  bio              : "上下而求索"
+  location         : "Berlin, Germany"
+  affiliation      : "Berlin School of Mind and Brain, Humbodlt-Universität zu Berlin"
   employer         :
   googlescholar    : 
   email            :
@@ -98,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
