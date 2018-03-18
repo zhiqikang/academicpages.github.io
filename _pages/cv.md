@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.Sc. Mind and Brain, Berlin School of Mind and Brain, Humboldt-Universität zu Berlin
+    Berlin, Germany   10.2017 - now
+* B.Sc. Cognitive Psychology and Neuroscience, Jacobs University
+    Bremen, Germany   09.2013 - 06.2016
 
-Work experience
+*More needs to be sorted out*
+
+<!-- Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
