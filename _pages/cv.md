@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * M.Sc. Mind and Brain, Berlin School of Mind and Brain, Humboldt-Universität zu Berlin
-    Berlin, Germany   10.2017 - now
+   Berlin, Germany   10.2017 - now  
 * B.Sc. Cognitive Psychology and Neuroscience, Jacobs University
-    Bremen, Germany   09.2013 - 06.2016
+   Bremen, Germany   09.2013 - 06.2016  
 
 *More needs to be sorted out*
 
